@@ -1,0 +1,9 @@
+version: "3.4"
+services:
+  project:
+    image: react-challenge
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"

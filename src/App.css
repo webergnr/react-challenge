@@ -1,0 +1,9 @@
+body {
+  background-color: #252525;
+  color: white;
+}
+
+.highlight-text {
+  background: #045A3E;
+  padding: 0 5px;
+}
