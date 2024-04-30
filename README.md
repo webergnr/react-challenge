@@ -10,7 +10,7 @@ Uses [Vite](https://vitejs.dev/), [Vitest](https://vitest.dev/), and [React Test
 
 ## Scripts
 
-Keep in mind that this project was created using `pnpm`. If you are using `npm` or `yarn`, you can replace `pnpm` with `npm` or `yarn` respectively.
+Keep in mind that this project was created using `yarn`. If you are using `npm` or `pnpm`, you can replace `yarn` with `npm` or `pnpm` respectively.
 
 - `dev`/`start` - start dev server and open browser
 - `build` - build for production
